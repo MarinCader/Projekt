@@ -57,7 +57,6 @@
 
         <footer>
             <p>Marin Cader</p>
-            <p>0246114218</p>
         </footer>
     </body>
 </html>
