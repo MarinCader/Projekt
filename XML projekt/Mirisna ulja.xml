@@ -1,0 +1,293 @@
+<MirisnaUlja>
+    <MirisnoUlje>
+        <id>1</id>
+        <Slika>fotografije/ulja/ulje (1).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - ljetno cvijeće</NazivProizvoda>
+        <Proizvodac>N ELEMENTS</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Sastojak>parfum</Sastojak>
+                <Sastojak>citral</Sastojak>
+                <Sastojak>geraniol</Sastojak>
+                <Sastojak>D-Limonene</Sastojak>
+                <Sastojak>linalool</Sastojak>
+            </Sastojci>
+            <Primjena>
+                Ukoliko se mirisno ulje koristi kao osvježivač prostora, 
+                u difuzor za mirise koji je napunjen dozvoljenom količinom 
+                vode ili na potpuri, nakapati do 10 kapi mirisa i ostaviti da ispari.
+            </Primjena>
+            <Upozorenja>
+                Držati van dosega djece.
+                Izbjegavati kontakt s kožom i očima.
+                Ne nanositi direktno na kožu i sluznicu.
+                Nije za oralnu uporabu.
+                Može izazvati alergijsku reakciju na koži.
+                U slučaju nadražaja ili osipa na koži: zatražiti savjet/pomoć liječnika.
+                Izbjegavati udisanje prašine/dima/plina/magle/pare/aerosola.
+                U SLUČAJU DODIRA S KOŽOM: oprati velikom količinom vode i sapuna.
+            </Upozorenja>
+        </Opis>
+        <Volumen>10</Volumen>
+        <Cijena>3.17</Cijena>
+        <Snizenje opis="u_postotku">10</Snizenje>
+    </MirisnoUlje>
+    <MirisnoUlje>
+    <id>2</id>
+        <Slika>fotografije/ulja/ulje (9).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - jabuka-cimet</NazivProizvoda>
+        <Proizvodac>N ELEMENTS</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Sastojak>parfum</Sastojak>
+                <Sastojak>cinnamal</Sastojak>
+                <Sastojak>linalool</Sastojak>
+            </Sastojci>
+            <Primjena>
+                Preporučujemo korištenje mirisnog ulja Jabuka cimet u aroma lampama. 
+                Stavite 5 do 15 kapi u aroma lampu napunjenu vodom. 
+                Upalite lučicu i stavite pod lampu. Isparavanjem ulja prostorijom se širi miris.
+                Za potpuri dodajte 10-20 kapi da bi se potpuri osvježio. 
+            </Primjena>
+            <Upozorenja>
+                Otrovno za vodeni okoliš s dugotrajnim učincima.
+                Nadražuje kožu.
+                Može izazvati alergijsku reakciju na koži.
+                Može biti smrtonosno ako se proguta i uđe u dišni sustav.
+                Zapaljiva tekućina i para.
+                U slučaju nadražaja ili osipa na koži: zatražiti savjet/pomoć liječnika.
+                Ako se proguta: odmah nazvati CENTAR ZA KOTNROLU OTROVANJA/liječnika.
+                Čuvati odvojeno od topline/iskre/otvorenog plamena/vrućih površina. 
+                Ne pušiti. Čuvati u dobro zatvorenom spremniku.
+                Kod nadražene kože ili osipa: Zatražiti savjet 
+                liječnika / potražiti liječničku pomoć.
+                Čuvati na dobro prozračivanom mjestu. Održavati hladnim.
+                Skladištiti pod ključem.
+            </Upozorenja>
+        </Opis>
+        <Volumen>10</Volumen>
+        <Cijena>3.04</Cijena>
+        <Snizenje opis="u_postotku">23</Snizenje>
+    </MirisnoUlje>
+    <MirisnoUlje>
+    <id>3</id>
+        <Slika>fotografije/ulja/ulje (2).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - ananas</NazivProizvoda>
+        <Proizvodac>MAYJAM</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Sastojak>Nedefiniran</Sastojak>
+            </Sastojci>
+            <Primjena>
+                Eterično ulje Ananas može se koristiti u aroma lampama ili difuzorima. 
+                Stavite 5 - 15 kapi u aroma lampu ili difuzor. 
+                Isparavanjem eteričnog ulja prostorijom se širi miris ugodan opuštajući miris. 
+                Za potpuri dodajte 10 - 20 kapi da bi se potpuri osvježio.
+                Za korištenje u sauni, u veliku posudu s vodom dodajte 10 - 20 kapi ulja i 
+                prelijte preko zagrijanog kamena. Ako eterično ulje koristite za njegu kože 
+                i kose, potrebno ga je razrijediti u nekom od nosivih ulja. 
+                Preporučeno doziranje je do 0,5%.
+            </Primjena>
+            <Upozorenja>
+                Samo za vanjsku uporabu.
+                Držati bocu dobro zatvorenom.
+                Čuvati na hladnom i suhom mjestu.
+                Izbjegavati kontakt s očima.
+                Prestanite koristiti ako se pojavi iritacija.
+                Čuvati izvan dohvata djece.
+                Ako ste trudni ili dojite, posavjetujte se s liječnikom prije upotrebe.
+            </Upozorenja>
+        </Opis>
+        <Volumen>100</Volumen>
+        <Cijena>13.99</Cijena>
+        <Snizenje opis="u_postotku">30</Snizenje>
+    </MirisnoUlje>
+    <MirisnoUlje>
+    <id>4</id>
+        <Slika>fotografije/ulja/ulje (3).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - zlatna čarolija</NazivProizvoda>
+        <Proizvodac>N ELEMENTS</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Sastojak>parfum</Sastojak>
+                <Sastojak>benzyl benzoate</Sastojak>
+                <Sastojak>linalool</Sastojak>
+                <Sastojak>glycine soja oil</Sastojak>
+            </Sastojci>
+            <Primjena>
+                Eterično ulje Ananas može se koristiti u aroma lampama ili difuzorima. 
+                Stavite 5 - 15 kapi u aroma lampu ili difuzor. 
+                Isparavanjem eteričnog ulja prostorijom se širi miris ugodan opuštajući miris. 
+                Za potpuri dodajte 10 - 20 kapi da bi se potpuri osvježio.
+                Za korištenje u sauni, u veliku posudu s vodom dodajte 10 - 20 kapi ulja i 
+                prelijte preko zagrijanog kamena. Ako eterično ulje koristite za njegu kože 
+                i kose, potrebno ga je razrijediti u nekom od nosivih ulja. 
+                Preporučeno doziranje je do 0,5%.
+            </Primjena>
+            <Upozorenja>
+                Držati van dosega djece.
+                Izbjegavati kontakt s kožom i očima.
+                Ne nanositi direktno na kožu i sluznicu.
+                Nije za oralnu uporabu.
+                Može izazvati alergijsku reakciju na koži.
+                U slučaju nadražaja ili osipa na koži: zatražiti savjet/pomoć liječnika.
+                Izbjegavati udisanje prašine/dima/plina/magle/pare/aerosola.
+                U SLUČAJU DODIRA S KOŽOM: oprati velikom količinom vode i sapuna.
+            </Upozorenja>
+        </Opis>
+        <Volumen>10</Volumen>
+        <Cijena>3.44</Cijena>
+        <Snizenje opis="u_postotku">5</Snizenje>
+    </MirisnoUlje>
+    <MirisnoUlje>
+    <id>5</id>
+        <Slika>fotografije/ulja/ulje (4).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - klinčić</NazivProizvoda>
+        <Proizvodac>KAIAA</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Sastojak>Nedefiniran</Sastojak>
+            </Sastojci>
+            <Primjena>
+                Kap do dvije u vodici za ispiranje usta pomoći će kod upala desni i zubobolje. 
+                Grgljajte ju i u situacijama kada imate grlobolju - okoristite se njegovom 
+                sposobnosti smanjenja boli, ali i antimikrobnim djelovanjem.
+                Osim toga, ulje klinčića uklopljeno u proizvode za primjenu na koži djeluje 
+                stimulirajuće na cijeli organizam. Sposobno je lagano povisiti krvni tlak te 
+                odagnati osjećaj općeg umora. Zbog toga je popularan dodatak uljima za masažu.
+            </Primjena>
+            <Upozorenja>
+                Ulje klinčića može biti nadražujuće za kožu i sluznice. 
+                Preporučljivo je, stoga, raditi pripravke u kojima je 
+                ovo ulje znalački dozirano - odnosno, u kojima je, 
+                za početak, koncentracija ovog eteričnog ulja mala.
+            </Upozorenja>
+        </Opis>
+        <Volumen>10</Volumen>
+        <Cijena>8.48</Cijena>
+        <Snizenje opis="u_postotku">15</Snizenje>
+    </MirisnoUlje>
+    <MirisnoUlje >
+        <Slika>fotografije/ulja/ulje (5).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - adriatic</NazivProizvoda>
+        <Proizvodac>AROMARA</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Sastojak>ulje od limuna</Sastojak>
+                <Sastojak>ulje od lavande</Sastojak>
+                <Sastojak>ulje od cedra</Sastojak>
+            </Sastojci>
+            <Primjena>
+                Difuzer ili aroma svjetiljka: 5 - 10 kapi. 
+                Direktna inhalacija. Koristite u inhalatoru prema uputstvima ili 
+                direktno udišite eterično ulje: nakapajte do 3 kapi na maramicu i 
+                duboko udišite. Ponavljajte prema potrebi. Miris u automobilu. 
+                Nakapajte do 5 kapi na auto difuzer ili vaticu. Koristite u automobilu.
+            </Primjena>
+            <Upozorenja>
+                Upozorenja nisu definirana.
+            </Upozorenja>
+        </Opis>
+        <Volumen>10</Volumen>
+        <Cijena>7.80</Cijena>
+        <Snizenje opis="u_postotku">27</Snizenje>
+    </MirisnoUlje>
+    <MirisnoUlje>
+        <Slika>fotografije/ulja/ulje (6).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - anti-tobacco</NazivProizvoda>
+        <Proizvodac>ATEA</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Satojak>parfum</Satojak>
+                <Satojak>citral</Satojak>
+                <Satojak>citronellol</Satojak>
+                <Satojak>coumarin</Satojak>
+                <Satojak>hexyl cinnamal</Satojak>
+                <Satojak>D-limonene</Satojak>
+                <Satojak>linalool</Satojak>
+            </Sastojci>
+            <Primjena>
+                Upute za upotrebu: Uljana lampa: dodati 5-15 kapi u vodu. 
+                Potpourri: dodajte 10-20 kapi da osvježite svoj potpourri.
+            </Primjena>
+            <Upozorenja>
+                Čuvati izvan dohvata djece. Izbjegavajte kontakt 
+                s kožom i očima. Može izazvati preosjetljivost u 
+                dodiru s kožom. Nije za oralnu uporabu.
+            </Upozorenja>
+        </Opis>
+        <Volumen>10</Volumen>
+        <Cijena>4.58</Cijena>
+        <Snizenje opis="u_postotku">5</Snizenje>
+    </MirisnoUlje>
+    <MirisnoUlje>
+        <Slika>fotografije/ulja/ulje (7).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - creme tropicale</NazivProizvoda>
+        <Proizvodac>MAYAM</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Sastojak>
+                    Mješavina potpuno prirodnih sastojaka 
+                    izoliranih iz eteričnih ulja i bilja, bez konzervansa i 
+                    sintetičkih sastojaka
+                </Sastojak>
+            </Sastojci>
+            <Primjena>
+                Sva eterična ulja potrebno je razrijediti (u biljnom ulju) prije 
+                nanošenja na kožu. Individualne reakcije su moguće na bilo koji sastojak, 
+                pa tako i na sastavnice eteričnih ulja. U slučaju alergijskih reakcija, 
+                sugeriramo prestati koristiti sva eterična ulja sličnog kemijskog sastava.
+            </Primjena>
+            <Upozorenja>
+                Svojstva, djelovanje, indikacije i način primjene 
+                opisani su u stručnoj literaturi i na internet 
+                stranicama posvećenim aromaterapiji, ljekovitom 
+                bilju i zdravom životu. Navedeni podaci informativnog 
+                su karaktera i ne sadrže medicinske informacije.
+            </Upozorenja>
+        </Opis>
+        <Volumen>10</Volumen>
+        <Cijena>5.30</Cijena>
+        <Snizenje opis="u_postotku">23</Snizenje>
+    </MirisnoUlje>
+    <MirisnoUlje>
+        <Slika>fotografije/ulja/ulje (8).jpeg</Slika>
+        <NazivProizvoda>Eterično ulje - ruža</NazivProizvoda>
+        <Proizvodac>N ELEMENTS</Proizvodac>
+        <Opis>
+            <Sastojci>
+                <Sastojak>parfum</Sastojak>
+                <Sastojak>alpha-isomethyl ionone</Sastojak>
+                <Sastojak>citral</Sastojak>
+                <Sastojak>citronellol</Sastojak>
+                <Sastojak>geraniol</Sastojak>
+                <Sastojak>hexyl cinnamal</Sastojak>
+                <Sastojak>hydroxycitronellal</Sastojak>
+                <Sastojak>D-limonene</Sastojak>
+                <Sastojak>linalool</Sastojak>
+                <Sastojak>glycine soja oil</Sastojak>
+            </Sastojci>
+            <Primjena>
+                Mirisno ulje Ruža najbolje je koristiti u aroma lampama. 
+                Stavite 5 - 15 kapi u aroma lampu napunjenu vodom.
+                Upalite lučicu i stavite pod lampu. 
+                Isparavanjem ulja prostorijom se širi miris.
+                Za potpuri dodajte 10 - 20 kapi da bi se potpuri osvježio.
+            </Primjena>
+            <Upozorenja>
+                Štetno za vodeni okoliš s dugotrajnim učincima.
+                Može izazvati alergijsku reakciju na koži.
+                Uzrokuje teške ozljede oka. Nadražuje kožu.
+                U SLUČAJU DODIRA S KOŽOM: oprati velikom količinom vode i sapuna.
+                Izbjegavati udisanje prašine/dima/plina/magle/pare/aerosola.
+                Nositi zaštitne rukavice / zaštitnu odjeću / zaštitu za oči / zaštitu za lice.
+                U slučaju dodira s očima: Oprezno ispirati vodom nekoliko minuta. 
+                Ukoliko je moguće, ukloniti eventualne kontaktne leće. Nastaviti ispirati.
+            </Upozorenja>
+        </Opis>
+        <Volumen>10</Volumen>
+        <Cijena>2.64</Cijena>
+        <Snizenje opis="u_postotku">19</Snizenje>
+    </MirisnoUlje>
+    
+</MirisnaUlja>

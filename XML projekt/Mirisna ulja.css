@@ -1,0 +1,348 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body{background-image: url("fotografije/44858963-tile-pastel-vector-pattern-with-white-and-pink-zig-zag-background.jpg");
+    background-repeat: repeat-x repeat-y;
+    background-attachment: fixed;
+}
+
+h1, h2, h3, caption {
+    font-family: Philosopher;
+}
+
+p {
+    font-family: Muli;
+}
+
+
+#trgovina_main {
+    background-color:skyblue;
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+#trgovina_main > h1 {
+    text-align: center;
+    padding: 15px 0px;
+}
+
+#trgovina_main > article {
+    background-image: url("fotografije/pocinje-ljeto.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 220px;
+    width: 80%;
+    border: 8px solid rgb(211, 33, 211);
+    margin: auto;
+    text-align: center; 
+    box-sizing: border-box;
+}
+
+#trgovina_main > article > h2 {
+    margin-top: 50px;
+    color:white ;
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+#trgovina_main > section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    max-width: 960px;
+    margin: 30px auto;
+    margin-bottom: 0px;
+}
+
+section > .kupnja {
+    width: 300px;
+    background-color: white;
+    border: 8px double rgb(211, 33, 211);
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 10px 10px;
+
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+section > .kupnja > figure {
+    width: 90%;
+    margin-top: 10px;
+}
+
+section > .kupnja > figure > img {
+    width: 100%;
+}
+section > .kupnja > p {
+    margin: 15px 0px;
+}
+
+.kupnja > div {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    height: 40px;
+
+    width: 100%;
+}
+
+.kupnja > div > p {
+    padding: 0px 10px;
+    font-size: 25px;
+}
+
+.kupnja > div > button {
+    width: 80px;
+    height: 35px;
+    margin-right: 10px;
+    margin-left: 5px;
+    border-radius: 4px;
+    background-color: white;
+    transition: background 0.3s;
+}
+
+.kupnja > div > button:hover {
+    background-color: rgb(211, 33, 211);
+}
+
+
+p.stara_cijena {
+    text-decoration: line-through red solid 5px;
+    opacity: 50%;
+}
+
+p.sniženje {
+    color: red;
+}
+
+.kupnja i {
+    color: black;
+    width: 100%;
+    font-size: 25px;
+    transform: color 0.3s;
+}
+
+.kupnja > div > button:hover > i {
+    color: white;
+}
+
+@media all and (max-width:1021px) {
+    section > .kupnja {
+        width: 400px;
+    }
+    .kupnja > div > button {
+        margin-left: 45px;
+    }
+}
+@media all and (max-width:880px) {
+    section > .kupnja {
+        width: 600px;
+    }
+    .kupnja > div > button {
+        margin-left: 20%;
+    }
+    #trgovina_main > article {
+        width: 600px;
+    }
+}
+
+header {
+    background-color: rgb(205, 162, 227);
+    max-width: 1200px;
+    height: 110px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+
+header figure {
+    float: left;
+}
+
+header figure img {
+    max-width: 150px;
+}
+
+header nav {
+    width: 490px;
+    height: 76px;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 25px;
+    padding-left: 15px;
+}
+
+ul {
+    list-style-type: none;
+    max-width: 100%;
+    float: left;
+    /* border: 1px solid white; */
+}
+
+header nav ul li {
+    float: left;
+    padding: 0px;
+}
+
+.li_button {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 25px;
+    font-size: larger;
+    border-radius: 10px;
+}
+
+.li_button:link, .li_button:visited {
+    background-color: white;
+}
+
+.li_button:hover, .li_button:active {
+    background-color: rgb(211, 33, 211);
+    color: white;
+}
+
+footer {
+    background-color: rgb(205, 162, 227);
+    max-width: 1200px;
+    height: 40px;
+    margin: 0px auto;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+
+@media all and (max-width: 672px) {
+
+    header nav {
+        width: 50%;
+        height: 76px;
+        box-sizing: border-box;
+        float: left;
+        padding-top: 44px;
+        
+    }
+        
+    #trgovina_main > article {
+        width: 100%;
+    }
+}
+@media all and (max-width: 550px) {
+
+    header nav {
+        padding-top: 12px;
+    }
+
+
+    ul {
+        list-style-type: none;
+        float: left;
+        width: 100%;
+    }
+    
+    header nav ul li {
+        width: 100%;
+        padding: 5px 0px;
+        float: left;
+    }
+    
+    .li_button {
+        color: white;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 5px 25%;
+        font-size: larger;
+    }
+    
+    .li_button:link, .li_button:visited {
+        background-color: white;
+        color: black;
+    }
+    
+    .li_button:hover, .li_button:active {
+        background-color: rgb(211, 33, 211);
+    }
+
+
+}
+/*--------------------------------------------------------------------------*/
+.opis_p {
+    font-size: 30px;
+}
+#opis_i {
+    max-width: 350px;
+    margin: 0px auto 70px auto;
+    display: flex;
+    flex-direction: column;
+    border: 10px double rgb(211, 33, 211);
+    border-radius:22px;
+}
+#opis_i img{
+    border-radius:14px;
+}
+#trgovina_main > div{
+    width: 75%;
+    margin: 0px auto 0px ;
+    background: white;
+    border-radius:14px;
+    padding:30px;
+    box-sizing: border-box;
+    border: 10px double rgb(211, 33, 211);
+}
+#trgovina_main > div > h1 {
+    text-align: center;
+}
+#trgovina_main > div > p{
+    margin: 20px;
+}
+section > article > a {
+    color: black;
+    text-decoration: none;
+}
+
+section > article h3 {
+    font-size: 19px;
+}
+section > article h3:hover {
+    color: rgb(211, 33, 211);
+}
+
+#sastav {
+    width: 100%;
+    height: fit-content;
+    margin: 15px 0px 15px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 3px none black; 
+}
+
+#sastav > ul {
+    display: block;
+    list-style-type: circle;
+    list-style-position: inside;
+    border: 3px none black; 
+    width: fit-content;
+    margin: auto;
+
+}
+
+#sastav > ul > li {
+    font-size: 30px;
+    /* width: fit-content; */
+
+}
+
+@media all and (max-width: 800px) {
+    #trgovina_main > div{
+        width: 100%;
+        margin: 0%;
+    }
+}
